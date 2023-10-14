@@ -147,6 +147,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | ------------ | -------------------------------------------------------- |
 | 67 | [Dealing With Complex Number](Classes/DealingWithComplexNumber.py) |
 | 68 | [Find The Torsional Angle](Classes/FindTheTorsionalAngle.py) |
+| 68 | [2d linkd list](classes/2dlinkedlist.py) |
 
 ### Built-Ins
 | DAY          | Problem                                                  |
